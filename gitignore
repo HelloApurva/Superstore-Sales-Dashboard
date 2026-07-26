@@ -1,0 +1,19 @@
+# Power BI Auto Recovery
+*.pbix.autosave
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Log Files
+*.log
